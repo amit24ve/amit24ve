@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amit Kumar</h1>
 <h3 align="center">I'm a student of computer science & engineering from galgotias university.</h3>
 
-<p align="left"> <img src="https://drive.google.com/file/d/1OPi2l30LyatuwWwQOS_Hm2BlnffS7A0P/view?usp=sharing" alt="amit24ve" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amit24ve&label=Profile%20views&color=0e75b6&style=flat" alt="amit24ve" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amit24ve" alt="amit24ve" /></a> </p>
 
