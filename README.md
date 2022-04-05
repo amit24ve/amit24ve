@@ -1,3 +1,5 @@
+![amit24ve](https://user-images.githubusercontent.com/55157688/161848090-5ff652b0-234d-4cfd-aca3-4fc741cbf52a.jpeg)
+
 <h1 align="center">Hi 👋, I'm Amit Kumar</h1>
 <h3 align="center">I'm a student of computer science & engineering from galgotias university.</h3>
 
