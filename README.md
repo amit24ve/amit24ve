@@ -1,4 +1,4 @@
-![](amit24ve.jpeg 20%)
+<img src="amit24ve.jpeg">
 <h1 align="center">Hi 👋, I'm Amit Kumar</h1>
 <h3 align="center">I'm a student of computer science & engineering from galgotias university.</h3>
 
