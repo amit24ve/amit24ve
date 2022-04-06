@@ -1,4 +1,4 @@
-<img src="amit24ve.jpeg" height="250px" width="250px" align="right" style="border-radius:50%;">
+<img src="amit24ve.jpeg" height="250px" width="250px" align="right" radius="50%">
 <h1 align="center">Hi 👋, I'm Amit Kumar</h1>
 <h3 align="center">I'm a student of computer science & engineering from galgotias university.</h3>
 
