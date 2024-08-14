@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amit Kumar</h1>
-<h3 align="center">Full Stack Developer @GalgotiasUniversity | Ayodhya, UP 🚀</h3>
+<h3 align="center"> Data Scientist and Full Stack Developer @GalgotiasUniversity | Ayodhya, UP 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amit24ve&label=Profile%20views&color=0e75b6&style=flat" alt="amit24ve" /> </p>
 
